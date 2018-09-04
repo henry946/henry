@@ -1,0 +1,29 @@
+.title {
+  color: red;
+}
+.header{
+  background-color:orange;
+}
+.footer{
+  background-color:blue;
+  color:white;
+  text-align:center;
+}
+img{
+  width:100%;
+  z-index:0;
+}
+.colum{
+  position:relative;
+}
+ul{
+  position:absolute;
+  color:white;
+  top:20%;
+  left:0;
+  z-index:1;
+}
+li{
+margin-bottom:80%;
+font-weight:bold;
+}
